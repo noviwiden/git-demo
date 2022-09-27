@@ -4,5 +4,4 @@ var korv = 200
 var result = apa+gaspedal+korv
 console.log(result)
 
-console.log("Hello");
-console.log("Bai bais");
+console.log("Hello! 🏇");
