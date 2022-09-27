@@ -5,4 +5,4 @@ var result = apa+gaspedal+korv
 console.log(result)
 
 console.log("Hello! 🏇");
-console.log("Bye!")
+console.log("Bye!!!!s")
